@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 93");
 // union 
 let username = "persy2005@gmail.com";
@@ -10,3 +8,4 @@ const printUsername = (username) => {
         console.log(`my username: ${username.toUpperCase()}`);
 };
 printUsername("Hoc ts with persy");
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 91");
 // annotation: ho tro cho chung ta biet khoi code do co thong tin gi
 const name = "persy"; // :string la mot annotation
@@ -11,3 +9,4 @@ const demo1 = "bla bla"; // bat chung ta phai check type, co the dung de thay th
 // infer: tu dong doan type phu hop
 let username = "luong quang lam";
 let age1 = 20;
+export {};
