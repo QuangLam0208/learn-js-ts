@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 94");
 // object type
 const person = {
@@ -20,4 +22,3 @@ const student2 = {
     id: 3263,
     phone: 97
 };
-export {};
