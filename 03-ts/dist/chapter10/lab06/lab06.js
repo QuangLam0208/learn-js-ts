@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const registerStudentCourse = (student, course) => {
     course.students.push(student);
     return course;
@@ -41,3 +39,4 @@ console.log("-----------------");
 myCourse1 = registerStudentCourse(student1, myCourse1);
 myCourse1 = registerStudentCourse(student2, myCourse1);
 printCourseInfo(myCourse1);
+export {};
