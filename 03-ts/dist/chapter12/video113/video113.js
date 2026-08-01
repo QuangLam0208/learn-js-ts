@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 13");
 class SinhVien {
     sleep() {
@@ -15,3 +13,4 @@ const sv2 = new SinhVien();
 sv2.name = "Persy";
 sv2.id = 23110121;
 sv2.sleep();
+export {};

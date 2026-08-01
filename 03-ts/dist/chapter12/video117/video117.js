@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 117");
 class Parent {
     shareHouse() {
@@ -14,3 +12,4 @@ class Child extends Parent {
 }
 const persy = new Child();
 persy.shareHouse();
+export {};

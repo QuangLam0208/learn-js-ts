@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 103");
 const user = {
     age: 21,
@@ -23,3 +21,4 @@ const myDog = {
     speak: () => console.log("Gau gauu")
 };
 myDog.speak();
+export {};

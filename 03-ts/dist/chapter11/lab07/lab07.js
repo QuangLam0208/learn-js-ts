@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("lab 07");
 const fetchBlogs = async () => {
     const res = await fetch("http://localhost:8000/blogs");
@@ -18,3 +16,4 @@ const fetchBlogs = async () => {
     }
 };
 fetchBlogs();
+export {};

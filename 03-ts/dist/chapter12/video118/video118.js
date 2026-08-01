@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 118");
 class Person {
 }
@@ -27,3 +25,4 @@ class Bird {
 const myBird = new Bird();
 myBird.makeSound();
 myBird.doFly();
+export {};

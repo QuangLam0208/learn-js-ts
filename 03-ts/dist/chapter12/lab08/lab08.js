@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class User {
     constructor(name, email, role) {
         this.name = name;
@@ -51,3 +49,4 @@ const printUserInfo = (user) => {
 };
 printUserInfo(hoidanit);
 printUserInfo(eric);
+export {};

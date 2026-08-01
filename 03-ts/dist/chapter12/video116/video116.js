@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 116");
 class Cat {
     constructor(name, age) {
@@ -22,3 +20,4 @@ console.log(catAge);
 myCat.age = 3;
 catAge = myCat.age;
 console.log(catAge);
+export {};

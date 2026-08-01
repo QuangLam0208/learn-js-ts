@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 115");
 class Animal {
     constructor(name, id) {
@@ -13,3 +11,4 @@ class Animal {
 const myDog = new Animal("dog", 1);
 console.log("animal name:", myDog.name);
 myDog.makeSound();
+export {};

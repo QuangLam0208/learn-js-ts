@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 120");
 class Animal {
     constructor(name) {
@@ -17,3 +15,4 @@ class Dog extends Animal {
 const myDog = new Dog("gay");
 myDog.test();
 myDog.makeSound();
+export {};

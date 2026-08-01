@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 119");
 class Dog {
     makeSound() {
@@ -24,3 +22,4 @@ const myZoo = [myDog, myCat, myPig];
 myZoo.forEach((animal, index) => {
     animal.makeSound();
 });
+export {};
